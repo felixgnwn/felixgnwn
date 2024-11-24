@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Felix 👋
 
-<!--
-**felixgnwn/felixgnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Code... Code... Code... That's what i've been doing these last few years, hoping to make a small impact in the world we live in using the art form we call "Code"
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, Next.js, Typescript, HTML, CSS
+- **Backend**: Golang, Gin, Node.js, Express
+- **Database**: MySQL, Postgres, MongoDB, Firebase
+- **Version Control**: Git, GitHub
+- **Others**: Figma, VSCode, Postman, Docker, AWS
+
+## 🔭 Currently Working On
+- A Simple Bank System using Golang, Postgres, Docker, and AWS.
+- Learning more about backend technologies and databases.
+
+## 📫 How to Reach Me
+- Email: [felixgunawan19@gmail.com](felixgunawan19@gmail.com)
+- LinkedIn: [Felix Gunawan]([https://www.linkedin.com/in/felix-gunawan/](https://www.linkedin.com/in/felix-gunawan-011276235/))
+- Portfolio: [felixgnwn.com](https://felixgnwn.com)
+
+Feel free to check out my repositories and contribute to any of the projects I’m working on. I’m always open to collaborations and learning new things. Let’s connect!
+
+---
+
+“Learning is a treasure that will follow its owner everywhere.” — Chinese Proverb
