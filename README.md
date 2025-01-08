@@ -12,7 +12,7 @@ _“Learning is a treasure that will follow its owner everywhere.”_ — Chines
 - LinkedIn: [Felix Gunawan](https://www.linkedin.com/in/felix-gunawan-011276235/)
 - Portfolio: [felixgnwn.com](https://felixgnwn.com)
 
-###
+## Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
