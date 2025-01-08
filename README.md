@@ -1,26 +1,30 @@
+<img src="Felix.png" alt="Github Banner" width="100%" />
+
 <h2 align="center">Hi 👋! My name is Felix and I'm a Software Engineer, from Indonesia</h2>
 
-Code... Code... Code... That's what i've been doing these last few years, hoping to make a small impact in the world we live in using the art form we call "Code"
+<p>Code... Code... Code... That's what i've been doing these last few years, hoping to make a small impact in the world we live in using the art form we call "Code"</p>
 
----
-
-“Learning is a treasure that will follow its owner everywhere.” — Chinese Proverb
-
----
+<h5>*“Learning is a treasure that will follow its owner everywhere.”* — Chinese Proverb</h5>
 
 ## 📫 How to Reach Me
 
-- Email: [felixgunawan19@gmail.com](felixgunawan19@gmail.com)
-- LinkedIn: [Felix Gunawan](https://www.linkedin.com/in/felix-gunawan-011276235/)
-- Portfolio: [felixgnwn.com](https://felixgnwn.com)
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-###
+  <!-- Contact Info Column -->
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>Email: [felixgunawan19@gmail.com](mailto:felixgunawan19@gmail.com)</li>
+      <li>LinkedIn: [Felix Gunawan](https://www.linkedin.com/in/felix-gunawan-011276235/)</li>
+      <li>Portfolio: [felixgnwn.com](https://felixgnwn.com)</li>
+    </ul>
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felixgnwn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- Stats Graph Column -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felixgnwn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  </div>
+
 </div>
-
-###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnBxYTNlcDBhOXppcThzZG1icjkwOWxiMjh1cncwYXFjdjZrdTU3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gZPdvc60v9eygLTsnf/giphy.gif"  />
 
