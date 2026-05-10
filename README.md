@@ -18,6 +18,6 @@ Still learning, still building, still figuring things out along the way.
 
 ```ts
 const felix = {
-  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  backend: ["Node.js", "Supabase", "MongoDB"]
+  frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+  backend:    ["Node.js", "Supabase", "MongoDB"]
 }
