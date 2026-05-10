@@ -7,7 +7,7 @@ For the past few years, I’ve been building things with code; not just because 
 I enjoy writing code, but what interests me more is understanding the problem behind it.  
 The goal isn’t just to make software work; it’s to make it useful for the people using it.
 
-Right now I mainly work with Next.js, TypeScript, and Tailwind CSS.
+Right now I mainly work with Next.js, React, TypeScript, and Tailwind CSS.
 
 I like building products that feel simple, fast, and easy to use.  
 Still learning, still building, still figuring things out along the way.
