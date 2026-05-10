@@ -1,13 +1,22 @@
-<img src="github-header-image.png" alt="Github Banner" width="100%" />
+# Hey there 👋
 
-<h2 align="center">Hi 👋! My name is Felix and I'm a Software Engineer, from Indonesia</h2>
+I'm Felix, a software engineer from Indonesia.
 
-Code... Code... Code... That's what i've been doing these last few years, hoping to make a small impact in the world we live in using the art form we call "Code"
+For the past few years, I’ve been building things with code; not just because I enjoy programming, but because I love solving problems that matter to people.
 
-_“Learning is a treasure that will follow its owner everywhere.”_ — Chinese Proverb
+I enjoy writing code, but what interests me more is understanding the problem behind it.  
+The goal isn’t just to make software work; it’s to make it useful for the people using it.
 
-## 📫 How to Reach Me
+Right now I mainly work with Next.js, TypeScript, and Tailwind CSS.
 
-- Email: [felixgunawan19@gmail.com](felixgunawan19@gmail.com)
-- LinkedIn: [Felix Gunawan](https://www.linkedin.com/in/felix-gunawan-011276235/)
-- Portfolio: [felixgnwn.com](https://felixgnwn.com)
+I like building products that feel simple, fast, and easy to use.  
+Still learning, still building, still figuring things out along the way.
+
+---
+
+### Tech Stack
+
+```ts
+const felix = {
+  frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+}
