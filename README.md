@@ -2,15 +2,13 @@
 
 I'm Felix, a software engineer from Indonesia.
 
-For the past few years, I’ve been building things with code; not just because I enjoy programming, but because I love solving problems that matter to people.
+For the past few years, I’ve been building things with code; not just because I enjoy programming, but because I like solving problems that matter to people.
 
-I enjoy writing code, but what interests me more is understanding the problem behind it.  
-The goal isn’t just to make software work; it’s to make it useful for the people using it.
+I mainly work with React, Next.js, TypeScript, and Tailwind CSS, building products that feel simple, fast, and intuitive to use.
 
-Right now I mainly work with Next.js, React, TypeScript, and Tailwind CSS.
+While I enjoy writing code, I also care a lot about UI/UX and design details - layout, spacing, typography, responsiveness, and motion; because those small things are often what make an experience feel polished and enjoyable.
 
-I like building products that feel simple, fast, and easy to use.  
-Still learning, still building, still figuring things out along the way.
+To me, good software is not only functional, but also thoughtful and easy to interact with.
 
 ---
 
@@ -18,6 +16,6 @@ Still learning, still building, still figuring things out along the way.
 
 ```ts
 const felix = {
-  frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-  backend:    ["Node.js", "Supabase", "MongoDB"]
+  frontend: ["React", "Next.js",  "TypeScript", "Tailwind CSS"],
+  backend: ["Node.js", "Supabase", "MongoDB"],
 }
